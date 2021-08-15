@@ -1,27 +1,27 @@
 # Site wide configuration
 
-title: Site Title
+title: Portfolio Site
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Rudy Hendrawan
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "I'm a data and machine learning enthusiast, a father, husband, researcher, and educator"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  twitter: dy_ruu
+  linkedin: rudy-hendrawan
+  github: rudyhendrawn
+  orcid: 0000-0002-0817-8167
+  researchgate: I-Nyoman-Rudy-Hendrawan
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: 9W0FuosAAAAJ
   facebook: #username
   instagram: #username
   bing-verify:
