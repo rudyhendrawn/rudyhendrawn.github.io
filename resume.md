@@ -29,13 +29,16 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`January 2020 – July 2020`
+__Google Bangkit – Bangkit Machine Learning Academy__
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`August 2011 - August 2013`
+__Institut Teknologi Sepuluh Nopember__
+Master Degree in Informatics 
+
+`August 2006 - April 2010`
+__Universitas Udayana__
+Bachelor Degree in Computer Science 
 
 <!-- ### Footer
 
